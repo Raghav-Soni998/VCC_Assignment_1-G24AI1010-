@@ -1,1 +1,2 @@
-# VCC_Assignment_1-G24AI1010-
+# assignment_1
+code for assignment 1
